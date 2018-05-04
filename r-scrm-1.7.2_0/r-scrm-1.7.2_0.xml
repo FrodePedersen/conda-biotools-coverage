@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-scrm</name>
+			<description>A coalescent simulator that allows the rapid simulation of biologicalsequences under neutral models of evolution. Different to other coalescentbased simulations, it has an optional approximation parameter that allowsfor high accuracy while maintaining a linear run time cost for long sequences.It is optimized for simulating massive data sets as produced by Next- GenerationSequencing technologies for up to several thousand sequences.</description>
+			<homepage>https://github.com/scrm/scrm-r</homepage>
+			<version>1.7.2_0</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 3)</license>
+		</labels>
+	</tool>
+</tools>

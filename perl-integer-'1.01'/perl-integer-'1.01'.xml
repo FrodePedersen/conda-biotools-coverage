@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-integer</name>
+			<description>Perl pragma to use integer arithmetic instead of floating point</description>
+			<homepage>http://metacpan.org/pod/integer</homepage>
+			<version>'1.01'</version>
+		</summary>
+		<labels>
+			<license>perl_5</license>
+		</labels>
+	</tool>
+</tools>

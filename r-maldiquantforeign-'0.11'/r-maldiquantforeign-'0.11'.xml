@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-maldiquantforeign</name>
+			<description>Functions for reading (tab, csv, Bruker fid, Ciphergen XML, mzXML, mzML,imzML, Analyze 7.5, CDF, mMass MSD) and writing (tab, csv, mMass MSD, mzML,imzML) different file formats of mass spectrometry data into/from 'MALDIquant'objects.</description>
+			<homepage>http://strimmerlab.org/software/maldiquant/ https://github.com/sgibb/MALDIquantForeign/</homepage>
+			<version>'0.11'</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 3)</license>
+		</labels>
+	</tool>
+</tools>

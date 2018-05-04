@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-rcircos</name>
+			<description>'A simple and flexible way to generate Circos 2D track plot images for genomic datavisualization is implemented in this package. The types of plots include: heatmap,histogram, lines, scatterplot, tiles and plot items for further decorations includeconnector, link (lines and ribbons), and text (gene) label. All functions requireonly R graphics package that comes with R base installation.  '# The original CRAN metadata for this package was:# Package: RCircos# Type: Package# Title: Circos 2D Track Plot# Version: 1.1.3# Date: 2015-12-20# Author: Hongen Zhang# Maintainer: Hongen Zhang <hzhang@mail.nih.gov># Description: A simple and flexible way to generate Circos 2D track plot images for genomic data visualization is implemented in this package. The types of plots include: heatmap, histogram, lines, scatterplot, tiles and plot items for further decorations include connector, link (lines and ribbons), and text (gene) label. All functions require only R graphics package that comes with R base installation.# License: GPL (>= 2)# Depends: R (>= 2.10)# URL: http://bitbucket.org/henryhzhang/rcircos# NeedsCompilation: no# Packaged: 2015-12-11 22:17:24 UTC; hzhang# Repository: CRAN# Date/Publication: 2015-12-14 17:29:13# See# http://docs.continuum.io/conda/build.html for# more information about meta.yaml</description>
+			<homepage>http://bitbucket.org/henryhzhang/rcircos</homepage>
+			<version>"1.1.3"</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

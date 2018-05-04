@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>dominate</name>
+			<description>Dominate is a Python library for creating and manipulating HTML documentsusing an elegant DOM API.</description>
+			<homepage>http://github.com/Knio/dominate/</homepage>
+			<version>2.1.16</version>
+		</summary>
+		<labels>
+			<license>GNU Lesser General Public License v3 (LGPLv3)</license>
+		</labels>
+	</tool>
+</tools>

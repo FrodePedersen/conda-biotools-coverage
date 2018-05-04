@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>gfapy</name>
+			<description>Library for handling data in the GFA1 and GFA2 formats</description>
+			<homepage>https://github.com/ggonnella/gfapy</homepage>
+			<version>1.0.0</version>
+		</summary>
+		<labels>
+			<license>ISC License (ISCL)</license>
+		</labels>
+	</tool>
+</tools>

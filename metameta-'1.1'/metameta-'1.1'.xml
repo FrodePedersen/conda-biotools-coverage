@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>metameta</name>
+			<description>MetaMeta - pipeline for integrating metagenome analysis tools to improvetaxonomic profiling</description>
+			<homepage>https://github.com/pirovc/metameta/</homepage>
+			<version>'1.1'</version>
+		</summary>
+		<labels>
+			<license>The MIT License (MIT)</license>
+		</labels>
+	</tool>
+</tools>

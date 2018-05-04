@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mageck-vispr</name>
+			<description>MAGeCK-VISPR is a comprehensive quality control, analysis and visualizationworkflow for CRISPR/Cas9 screens based on MAGeCK, VISPR, Snakemake, FastQCand cutadapt.</description>
+			<homepage>https://bitbucket.org/liulab/mageck-vispr</homepage>
+			<version>0.5.4</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

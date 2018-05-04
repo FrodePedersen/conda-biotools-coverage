@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>msms</name>
+			<description>MSMS is a program written in the C programming language to compute molecularsurfaces.</description>
+			<homepage>http://mgltools.scripps.edu/packages/MSMS/</homepage>
+			<version>2.6.1</version>
+		</summary>
+		<labels>
+			<license>Free for academic use.</license>
+		</labels>
+	</tool>
+</tools>

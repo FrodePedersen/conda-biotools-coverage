@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-qiimer</name>
+			<description>Open QIIME output files in R, compute statistics, and create plots fromthe data.</description>
+			<homepage>http://www.r-project.org</homepage>
+			<version>0.9.4</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

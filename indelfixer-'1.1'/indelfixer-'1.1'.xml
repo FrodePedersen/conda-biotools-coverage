@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>indelfixer</name>
+			<description>A sensitive aligner for 454, Illumina and PacBio data, employing a fullSmith-Waterman alignment against a reference.</description>
+			<homepage>https://github.com/cbg-ethz/InDelFixer</homepage>
+			<version>'1.1'</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License v3.0</license>
+		</labels>
+	</tool>
+</tools>

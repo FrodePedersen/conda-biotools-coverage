@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-swath2stats</name>
+			<description>This package is intended to transform SWATH data from the OpenSWATH softwareinto a format readable by other statistics packages while performing filtering,annotation and FDR estimation.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/SWATH2stats.html</homepage>
+			<version>1.8.1</version>
+		</summary>
+		<labels>
+			<license>GPL-3</license>
+		</labels>
+	</tool>
+</tools>

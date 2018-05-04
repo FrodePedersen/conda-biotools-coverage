@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>maxentscan</name>
+			<description>MaxEntScan is based on the approach for modeling the sequences of shortsequence motifs such as those involved in RNA splicing which simultaneouslyaccounts for non-adjacent as well as adjacent dependencies between positions.This method is based on the 'Maximum Entropy Principle' and generalizes mostprevious probabilistic models of sequence motifs such as weight matrix modelsand inhomogeneous Markov models.</description>
+			<homepage>http://genes.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq.html</homepage>
+			<version>0_2004.04.21</version>
+		</summary>
+	</tool>
+</tools>

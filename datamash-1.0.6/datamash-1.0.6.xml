@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>datamash</name>
+			<description>GNU Datamash is a command-line program which performs basic numeric,textualand statistical operations on input textual data files.</description>
+			<homepage>http://www.gnu.org/software/datamash</homepage>
+			<version>1.0.6</version>
+		</summary>
+		<labels>
+			<license>GPL3</license>
+		</labels>
+	</tool>
+</tools>

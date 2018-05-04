@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-rphylip</name>
+			<description>Rphylip provides an R interface for the PHYLIP package. All users ofRphylip will thus first have to install the PHYLIP phylogeny methods programpackage (Felsenstein 2013). See http://www.phylip.com for more  informationabout installing PHYLIP.</description>
+			<homepage>http://www.phytools.org/Rphylip</homepage>
+			<version>'0.1_23'</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

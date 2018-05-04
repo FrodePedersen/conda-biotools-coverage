@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-dbm-deep</name>
+			<description>A pure perl multi-level hash/array DBM that supports transactions</description>
+			<homepage>http://metacpan.org/pod/DBM::Deep</homepage>
+			<version>'2.0013'</version>
+		</summary>
+		<labels>
+			<license>perl_5</license>
+		</labels>
+	</tool>
+</tools>

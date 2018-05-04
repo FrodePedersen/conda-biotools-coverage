@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>drive</name>
+			<description>Google Drive client for the commandline</description>
+			<homepage>https://github.com/odeke-em/drive</homepage>
+			<version>0.3.9</version>
+		</summary>
+		<labels>
+			<license>Apache v2.0</license>
+		</labels>
+	</tool>
+</tools>

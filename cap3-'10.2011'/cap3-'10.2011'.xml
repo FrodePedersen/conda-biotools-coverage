@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>cap3</name>
+			<description>DNA sequence assembly program.</description>
+			<homepage>http://seq.cs.iastate.edu/</homepage>
+			<version>'10.2011'</version>
+		</summary>
+		<labels>
+			<license>Michigan Tech.</license>
+		</labels>
+	</tool>
+</tools>

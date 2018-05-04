@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>cobra</name>
+			<description>COBRApy is a package for constraint-based modeling of biological networks</description>
+			<homepage>https://opencobra.github.io/cobrapy</homepage>
+			<version>0.10.1</version>
+		</summary>
+		<labels>
+			<license>GNU Lesser General Public License v2 or later (LGPLv2+) or GNU General</license>
+		</labels>
+	</tool>
+</tools>

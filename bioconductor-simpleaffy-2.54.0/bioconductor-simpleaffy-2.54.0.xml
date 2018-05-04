@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-simpleaffy</name>
+			<description>Provides high level functions for reading Affy .CEL files, phenotypicdata, and then computing simple things with it, such as t-tests, fold changesand the like. Makes heavy use of the affy library. Also has some basic scatterplot functions and mechanisms for generating high resolution journal figures...</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/simpleaffy.html</homepage>
+			<version>2.54.0</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

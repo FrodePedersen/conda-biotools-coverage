@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-sgseq</name>
+			<description>SGSeq is a software package for analyzing splice events from RNA-seqdata. Input data are RNA-seq reads mapped to a reference genome in BAM format.Genes are represented as a splice graph, which can be obtained from existingannotation or predicted from the mapped sequence reads. Splice events areidentified from the graph and are quantified locally using structurally compatiblereads at the start or end of each splice variant. The software includes functionsfor splice event prediction, quantification, visualization and interpretation.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/SGSeq.html</homepage>
+			<version>1.12.0</version>
+		</summary>
+		<labels>
+			<license>Artistic-2.0</license>
+		</labels>
+	</tool>
+</tools>

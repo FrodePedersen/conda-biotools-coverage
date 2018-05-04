@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>plasmidtron</name>
+			<description>'PlasmidTron: assembling the cause of phenotypes from NGS data'</description>
+			<homepage>https://github.com/sanger-pathogens/plasmidtron</homepage>
+			<version>0.4.1</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License v3 (GPLv3)</license>
+		</labels>
+	</tool>
+</tools>

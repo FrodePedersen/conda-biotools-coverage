@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>goleft</name>
+			<description>goleft is a collection of bioinformatics tools distributed under MITlicense in a single static binary</description>
+			<homepage>https://github.com/brentp/goleft</homepage>
+			<version>0.1.17</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

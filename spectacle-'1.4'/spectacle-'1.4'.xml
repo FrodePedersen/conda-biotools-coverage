@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>spectacle</name>
+			<description>'This software implements a spectral learning algorithm for hidden Markovmodels for epigenomic data. Please see our paper for further details: Song,J and Chen, K. C. Spectacle: fast chromatin state annotation using spectrallearning. Genome Biology, 16:33, 2015. http://genomebiology.com/2015/16/1/33'</description>
+			<homepage>https://github.com/jiminsong/Spectacle</homepage>
+			<version>'1.4'</version>
+		</summary>
+		<labels>
+			<license>GPLv3</license>
+		</labels>
+	</tool>
+</tools>

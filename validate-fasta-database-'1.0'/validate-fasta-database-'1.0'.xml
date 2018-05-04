@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>validate-fasta-database</name>
+			<description>Code for Galaxy tool for quality control on FASTA database</description>
+			<homepage>https://github.com/caleb-easterly/validate_fasta_database</homepage>
+			<version>'1.0'</version>
+		</summary>
+		<labels>
+			<license>GPL-3.0</license>
+		</labels>
+	</tool>
+</tools>

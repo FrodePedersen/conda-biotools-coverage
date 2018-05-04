@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>deap</name>
+			<description>Distributed Evolutionary Algorithms in Python</description>
+			<homepage>https://www.github.com/deap</homepage>
+			<version>1.0.2</version>
+		</summary>
+		<labels>
+			<license>GNU Library or Lesser General Public License (LGPL)</license>
+		</labels>
+	</tool>
+</tools>

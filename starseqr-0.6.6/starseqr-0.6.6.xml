@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>starseqr</name>
+			<description>RNA Fusion Detection and Quantification</description>
+			<homepage>https://github.com/ExpressionAnalysis/STAR-SEQR</homepage>
+			<version>0.6.6</version>
+		</summary>
+		<labels>
+			<license>../../LICENSE</license>
+		</labels>
+	</tool>
+</tools>

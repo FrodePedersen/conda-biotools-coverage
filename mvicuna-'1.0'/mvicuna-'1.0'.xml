@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mvicuna</name>
+			<description>M-Vicuna is a modularized version of VICUNA, a de novo assembly programtargeting populations with high mutation rates</description>
+			<homepage>https://www.broadinstitute.org/scientific-community/science/projects/viral-genomics/vicuna</homepage>
+			<version>'1.0'</version>
+		</summary>
+		<labels>
+			<license>https://www.broadinstitute.org/node/4238</license>
+		</labels>
+	</tool>
+</tools>

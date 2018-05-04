@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>pvacseq</name>
+			<description>Personalized Variant Antigens by Cancer Sequencing (pVAC-Seq)</description>
+			<homepage>https://github.com/griffithlab/pVAC-Seq</homepage>
+			<version>4.0.9</version>
+		</summary>
+		<labels>
+			<license>NPOSL-3.0</license>
+		</labels>
+	</tool>
+</tools>

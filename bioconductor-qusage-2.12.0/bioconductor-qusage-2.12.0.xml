@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-qusage</name>
+			<description>This package is an implementation the Quantitative Set Analysis for GeneExpression (QuSAGE) method described in (Yaari G. et al, Nucl Acids Res, 2013).This is a novel Gene Set Enrichment-type test, which is designed to providea faster, more accurate, and easier to understand test for gene expressionstudies. qusage accounts for inter-gene correlations using the Variance InflationFactor technique proposed by Wu et al. (Nucleic Acids Res, 2012). In addition,rather than simply evaluating the deviation from a null hypothesis with asingle number (a P value), qusage quantifies gene set activity with a completeprobability density function (PDF). From this PDF, P values and confidenceintervals can be easily extracted. Preserving the PDF also allows for post-hocanalysis (e.g., pair-wise comparisons of gene set activity) while maintainingstatistical traceability. Finally, while qusage is compatible with individualgene statistics from existing methods (e.g., LIMMA), a Welch-based methodis implemented that is shown to improve specificity. For questions, contactChris Bolen (cbolen1@gmail.com) or Steven Kleinstein (steven.kleinstein@yale.edu)</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/qusage.html</homepage>
+			<version>2.12.0</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>sistr_cmd</name>
+			<description>Salmonella In Silico Typing Resource (SISTR) commandline tool for serovarprediction</description>
+			<homepage>https://github.com/peterk87/sistr_cmd/</homepage>
+			<version>1.0.2</version>
+		</summary>
+		<labels>
+			<license>Apache</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>xxmotif</name>
+			<description>eXhaustive, weight matriX-based motif discovery in nucleotide sequences</description>
+			<homepage>https://github.com/soedinglab/xxmotif</homepage>
+			<version>'1.6'</version>
+		</summary>
+		<labels>
+			<license>GPLv3</license>
+		</labels>
+	</tool>
+</tools>

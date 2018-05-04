@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>opsin</name>
+			<description>OPSIN is a Java(1.6+) library for IUPAC name-to-structure conversionoffering high recall and precision on organic chemical nomenclature.</description>
+			<homepage>https://bitbucket.org/dan2097/opsin/</homepage>
+			<version>1.4.0</version>
+		</summary>
+		<labels>
+			<license>Artistic License 2.0</license>
+		</labels>
+	</tool>
+</tools>

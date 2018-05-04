@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>meryl</name>
+			<description>meryl is a multi-threaded, multi-process, out-of-core k-mer counter</description>
+			<homepage>http://kmer.sourceforge.net/wiki/index.php/Getting_Started_with_Meryl</homepage>
+			<version>'2013'</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

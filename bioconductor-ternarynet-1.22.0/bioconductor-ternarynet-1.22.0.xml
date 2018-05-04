@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-ternarynet</name>
+			<description>A computational Bayesian approach to ternary gene regulatory networkestimation from gene perturbation experiments.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/ternarynet.html</homepage>
+			<version>1.22.0</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

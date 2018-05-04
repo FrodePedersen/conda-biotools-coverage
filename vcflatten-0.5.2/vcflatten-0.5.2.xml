@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>vcflatten</name>
+			<description>A command line tool for flattening VCF files down to simpler TSV files.</description>
+			<homepage>http://innovativemedicine.ca/tools/vcflatten</homepage>
+			<version>0.5.2</version>
+		</summary>
+		<labels>
+			<license>BSD</license>
+		</labels>
+	</tool>
+</tools>

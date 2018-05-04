@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-category</name>
+			<description>A collection of tools for performing category (gene set enrichment) analysis.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/Category.html</homepage>
+			<version>2.44.0</version>
+		</summary>
+		<labels>
+			<license>Artistic-2.0</license>
+		</labels>
+	</tool>
+</tools>

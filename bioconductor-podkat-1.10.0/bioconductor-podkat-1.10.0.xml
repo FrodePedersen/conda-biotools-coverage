@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-podkat</name>
+			<description>This package provides an association test that is capable of dealingwith very rare and even private variants. This is accomplished by a kernel-basedapproach that takes the positions of the variants into account. The test canbe used for pre-processed matrix data, but also directly for variant datastored in VCF files. Association testing can be performed whole-genome, whole-exome,or restricted to pre-defined regions of interest. The test is complementedby tools for analyzing and visualizing the results.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/podkat.html</homepage>
+			<version>1.10.0</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

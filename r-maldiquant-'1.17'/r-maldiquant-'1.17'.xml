@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-maldiquant</name>
+			<description>A complete analysis pipeline for matrix-assisted laser desorption/ionization-time-of-flight(MALDI-TOF) and other two-dimensional mass spectrometry data. In additionto commonly used plotting and processing methods it includes distinctive features,namely baseline subtraction methods such as morphological filters (TopHat)or the statistics-sensitive non-linear iterative peak-clipping algorithm (SNIP),peak alignment using warping functions, handling of replicated measurementsas well as allowing spectra with different resolutions.</description>
+			<homepage>http://strimmerlab.org/software/maldiquant/ https://github.com/sgibb/MALDIquant/</homepage>
+			<version>'1.17'</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 3)</license>
+		</labels>
+	</tool>
+</tools>

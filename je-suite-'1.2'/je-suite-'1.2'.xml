@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>je-suite</name>
+			<description>'Je is a suite to handle barcoded fastq files with (or without) UniqueMolecule Identifiers (UMIs) and filterread duplicates using these UMIs'</description>
+			<homepage>https://gbcs.embl.de/Je</homepage>
+			<version>'1.2'</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

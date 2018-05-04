@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-rtca</name>
+			<description>Import, analyze and visualize data from Roche(R) xCELLigence RTCA systems.The package imports real-time cell electrical impedance data into R. As analternative to commercial software shipped along the system, the Bioconductorpackage RTCA provides several unique transformation (normalization) strategiesand various visualization tools.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/RTCA.html</homepage>
+			<version>1.30.0</version>
+		</summary>
+		<labels>
+			<license>LGPL-3</license>
+		</labels>
+	</tool>
+</tools>

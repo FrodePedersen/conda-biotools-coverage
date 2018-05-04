@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-base</name>
+			<description>compile-time class fields</description>
+			<homepage>http://metacpan.org/pod/base</homepage>
+			<version>'2.23'</version>
+		</summary>
+		<labels>
+			<license>unknown</license>
+		</labels>
+	</tool>
+</tools>

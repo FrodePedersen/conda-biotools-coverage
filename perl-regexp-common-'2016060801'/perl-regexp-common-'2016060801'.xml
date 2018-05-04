@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-regexp-common</name>
+			<description>Provide commonly requested regular expressions</description>
+			<homepage>http://metacpan.org/pod/Regexp-Common</homepage>
+			<version>'2016060801'</version>
+		</summary>
+		<labels>
+			<license>mit</license>
+		</labels>
+	</tool>
+</tools>

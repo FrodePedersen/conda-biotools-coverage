@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>w4mclassfilter</name>
+			<description>Filter Workflow4Metabolomics dataMatrix, sampleMetadata, and variableMetadatafiles by sample-class, imputing zero for NA values and eliminating zero-variancerows and columns from the data-matrix. MIT Licence allows redistribution.</description>
+			<homepage>https://github.com/HegemanLab/w4mclassfilter</homepage>
+			<version>0.98.3</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

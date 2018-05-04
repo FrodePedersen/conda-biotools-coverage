@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-font-afm</name>
+			<description>Interface to Adobe Font Metrics files</description>
+			<homepage>http://metacpan.org/pod/Font-AFM</homepage>
+			<version>'1.20'</version>
+		</summary>
+		<labels>
+			<license>perl_5</license>
+		</labels>
+	</tool>
+</tools>

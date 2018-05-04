@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-arraytools</name>
+			<description>This package is designed to provide solutions for quality assessmentand to detect differentially expressed genes for the Affymetrix GeneChips,including both 3' -arrays and gene 1.0-ST arrays. The package generates comprehensiveanalysis reports in HTML format. Hyperlinks on the report page will lead toa series of QC plots, processed data, and differentially expressed gene lists.Differentially expressed genes are reported in tabular format with annotationshyperlinked to online biological databases.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/ArrayTools.html</homepage>
+			<version>1.38.0</version>
+		</summary>
+		<labels>
+			<license>LGPL (>= 2.0)</license>
+		</labels>
+	</tool>
+</tools>

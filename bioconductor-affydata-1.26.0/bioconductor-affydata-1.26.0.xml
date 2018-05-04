@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-affydata</name>
+			<description>Example datasets of a slightly large size. They represent 'real worldexamples', unlike the artificial examples included in the package affy.</description>
+			<homepage>http://bioconductor.org/packages/3.6/data/experiment/html/affydata.html</homepage>
+			<version>1.26.0</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

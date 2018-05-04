@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>alignlib-lite</name>
+			<description>Simple wrapper around alignlib C++ library for sequence alignment</description>
+			<homepage>http://sourceforge.net/projects/alignlib/</homepage>
+			<version>'0.3'</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License v2 or later (GPLv2+)</license>
+		</labels>
+	</tool>
+</tools>

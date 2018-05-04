@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>quasitools</name>
+			<description>Quasitools is a collection of tools for analysing Viral Quasispecies</description>
+			<homepage>https://github.com/phac-nml/quasitools/</homepage>
+			<version>0.2.2</version>
+		</summary>
+		<labels>
+			<license>Apache License, Version 2.0</license>
+		</labels>
+	</tool>
+</tools>

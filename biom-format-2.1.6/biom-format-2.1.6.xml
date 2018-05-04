@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>biom-format</name>
+			<description>Biological Observation Matrix (BIOM) format</description>
+			<homepage>http://www.biom-format.org</homepage>
+			<version>2.1.6</version>
+		</summary>
+		<labels>
+			<license>BSD License</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>dfam</name>
+			<description>The Dfam database is a collection of Repetitive DNA element sequencealignments, hidden Markov models (HMMs) and matches lists for complete Eukaryotegenomes</description>
+			<homepage>dfam.org</homepage>
+			<version>'2.0'</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

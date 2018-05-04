@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-robustrankaggreg</name>
+			<description>Methods for aggregating ranked lists, especially lists of genes. It implementsthe Robust Rank Aggregation (Kolde et. al in preparation) and some other simplealgorithms for the task. RRA method uses a probabilistic model for aggregationthat is robust to noise and also facilitates the calculation of significanceprobabilities for all the elements in the final ranking.</description>
+			<homepage>https://CRAN.R-project.org/package=RobustRankAggreg</homepage>
+			<version>'1.1'</version>
+		</summary>
+		<labels>
+			<license>GPL-2</license>
+		</labels>
+	</tool>
+</tools>

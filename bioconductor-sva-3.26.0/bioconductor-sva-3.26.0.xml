@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-sva</name>
+			<description>'The sva package contains functions for removing batch effects and otherunwanted variation in high-throughput experiment. Specifically, the sva packagecontains functions for the identifying and building surrogate variables forhigh-dimensional data sets. Surrogate variables are covariates constructeddirectly from high-dimensional data (like gene expression/RNA sequencing/methylation/brainimaging data) that can be used in subsequent analyses to adjust for unknown,unmodeled, or latent sources of noise. The sva package can be used to removeartifacts in three ways: (1) identifying and estimating surrogate variablesfor unknown sources of variation in high-throughput experiments (Leek andStorey 2007 PLoS Genetics,2008 PNAS), (2) directly removing known batch effectsusing ComBat (Johnson et al. 2007 Biostatistics) and (3) removing batch effectswith known control probes (Leek 2014 biorXiv). Removing batch effects andusing surrogate variables in differential expression analysis have been shownto reduce dependence, stabilize error rate estimates, and improve reproducibility,see (Leek and Storey 2007 PLoS Genetics, 2008 PNAS or Leek et al. 2011 Nat.Reviews Genetics).'</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/sva.html</homepage>
+			<version>3.26.0</version>
+		</summary>
+		<labels>
+			<license>Artistic-2.0</license>
+		</labels>
+	</tool>
+</tools>

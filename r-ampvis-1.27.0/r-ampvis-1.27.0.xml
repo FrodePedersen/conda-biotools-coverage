@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-ampvis</name>
+			<description>A package to visualise amplicon data</description>
+			<homepage>https://github.com/MadsAlbertsen/ampvis</homepage>
+			<version>1.27.0</version>
+		</summary>
+		<labels>
+			<license>AGPL-3</license>
+		</labels>
+	</tool>
+</tools>

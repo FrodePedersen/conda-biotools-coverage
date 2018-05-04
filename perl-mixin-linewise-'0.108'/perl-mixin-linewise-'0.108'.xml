@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-mixin-linewise</name>
+			<description>write your linewise code for handles; this does the rest</description>
+			<homepage>https://github.com/rjbs/Mixin-Linewise</homepage>
+			<version>'0.108'</version>
+		</summary>
+		<labels>
+			<license>perl_5</license>
+		</labels>
+	</tool>
+</tools>

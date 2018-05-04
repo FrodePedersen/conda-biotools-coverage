@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>stellar</name>
+			<description>STELLAR is a tool for finding pairwise local alignments between longgenomic or very many short sequences.</description>
+			<homepage>https://github.com/seqan/seqan/tree/master/apps/stellar/README</homepage>
+			<version>1.4.9</version>
+		</summary>
+		<labels>
+			<license>LGPLv3+</license>
+		</labels>
+	</tool>
+</tools>

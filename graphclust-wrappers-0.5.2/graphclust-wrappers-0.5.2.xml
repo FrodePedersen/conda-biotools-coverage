@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>graphclust-wrappers</name>
+			<description>The set of individual perl wrappers extracted from GraphClust pipeline</description>
+			<homepage>http://www.bioinf.uni-freiburg.de/Software/GraphClust/</homepage>
+			<version>0.5.2</version>
+		</summary>
+		<labels>
+			<license>GPLv3</license>
+		</labels>
+	</tool>
+</tools>

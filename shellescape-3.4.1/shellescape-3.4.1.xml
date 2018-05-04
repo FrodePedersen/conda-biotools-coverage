@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>shellescape</name>
+			<description>Shell escape a string to safely use it as a token in a shell command(backport of Python shlex.quote for Python versions 2.x & < 3.3)</description>
+			<homepage>https://github.com/chrissimpkins/shellescape</homepage>
+			<version>3.4.1</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

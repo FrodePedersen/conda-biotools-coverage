@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>wub</name>
+			<description>Tools and software library developed by the ONT Applications group</description>
+			<homepage>https://github.com/nanoporetech/wub</homepage>
+			<version>0.2.0</version>
+		</summary>
+		<labels>
+			<license>MPL-2.0</license>
+		</labels>
+	</tool>
+</tools>

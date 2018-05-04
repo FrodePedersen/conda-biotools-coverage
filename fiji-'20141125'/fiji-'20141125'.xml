@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>fiji</name>
+			<description>"Fiji is an image processing package\u2014a \"batteries-included\" distribution\\ of ImageJ, bundling a lot of plugins which facilitate scientific image analysis."</description>
+			<homepage>http://fiji.sc/</homepage>
+			<version>'20141125'</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License</license>
+		</labels>
+	</tool>
+</tools>

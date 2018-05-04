@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>rnftools</name>
+			<description>'RNF framework for NGS: simulation of reads, evaluation of mappers, conversion of RNF-compliant data.'</description>
+			<homepage>http://karel-brinda.github.io/rnftools</homepage>
+			<version>{{ version }}</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

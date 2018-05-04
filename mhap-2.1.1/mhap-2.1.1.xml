@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mhap</name>
+			<description>'MHAP: MinHash Alignment Protocol. A tool for finding overlaps of long-readsequences (such as PacBio or Nanopore) in bioinformatics.'</description>
+			<homepage>https://github.com/marbl/MHAP</homepage>
+			<version>2.1.1</version>
+		</summary>
+		<labels>
+			<license>Apache License 2.0</license>
+		</labels>
+	</tool>
+</tools>

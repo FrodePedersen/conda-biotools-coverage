@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>shovill</name>
+			<description>Faster SPAdes assembly of Illumina reads</description>
+			<homepage>https://github.com/tseemann/shovill</homepage>
+			<version>0.8.0</version>
+		</summary>
+		<labels>
+			<license>GPL2</license>
+		</labels>
+	</tool>
+</tools>

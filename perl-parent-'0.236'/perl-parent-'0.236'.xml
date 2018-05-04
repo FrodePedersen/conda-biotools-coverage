@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-parent</name>
+			<description>Establish an ISA relationship with base classes at compile time</description>
+			<homepage>http://metacpan.org/pod/parent</homepage>
+			<version>'0.236'</version>
+		</summary>
+		<labels>
+			<license>perl_5</license>
+		</labels>
+	</tool>
+</tools>

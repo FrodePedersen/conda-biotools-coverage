@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>aenum</name>
+			<description>Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples,and NamedConstants</description>
+			<homepage>https://bitbucket.org/stoneleaf/aenum</homepage>
+			<version>2.0.8</version>
+		</summary>
+		<labels>
+			<license>BSD License</license>
+		</labels>
+	</tool>
+</tools>

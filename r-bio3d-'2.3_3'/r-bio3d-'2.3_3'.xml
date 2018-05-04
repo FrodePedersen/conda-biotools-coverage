@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-bio3d</name>
+			<description>Utilities to process, organize and explore protein structure, sequenceand dynamics data. Features include the ability to read and write structure,sequence and dynamic trajectory data, perform sequence and structure databasesearches, data summaries, atom selection, alignment, superposition, rigidcore identification, clustering, torsion analysis, distance matrix analysis,structure and sequence conservation analysis, normal mode analysis, principalcomponent analysis of heterogeneous structure data, and correlation networkanalysis from normal mode and molecular dynamics data. In addition, variousutility functions are provided to enable the statistical and graphical powerof the R environment to work with biological sequence and structural data.Please refer to the URLs below for more information.</description>
+			<homepage>http://thegrantlab.org/bio3d/, http://bitbucket.org/Grantlab/bio3d</homepage>
+			<version>'2.3_3'</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bwameth</name>
+			<description>A fast and accurate aligner of BS-seq reads</description>
+			<homepage>https://github.com/brentp/bwa-meth</homepage>
+			<version>0.2.0</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>perl-canary-stability</name>
+			<description>canary to check perl compatibility for schmorp's modules</description>
+			<homepage>http://metacpan.org/pod/Canary-Stability</homepage>
+			<version>'2006'</version>
+		</summary>
+		<labels>
+			<license>unknown</license>
+		</labels>
+	</tool>
+</tools>

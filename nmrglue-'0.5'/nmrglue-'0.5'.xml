@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>nmrglue</name>
+			<description>A module for working with NMR data in Python</description>
+			<homepage>http://www.nmrglue.com</homepage>
+			<version>'0.5'</version>
+		</summary>
+		<labels>
+			<license>BSD License</license>
+		</labels>
+	</tool>
+</tools>

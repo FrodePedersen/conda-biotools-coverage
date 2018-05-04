@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-rematch2</name>
+			<description>Wrappers on 'regexpr' and 'gregexpr' to return the match results in tidydata frames.</description>
+			<homepage>https://github.com/r-lib/rematch2#readme</homepage>
+			<version>2.0.1</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

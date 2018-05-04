@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>sweepfinder2</name>
+			<description>The BWA read mapper.</description>
+			<homepage>http://www.personal.psu.edu/mxd60/sf2.html</homepage>
+			<version>'1.0'</version>
+		</summary>
+		<labels>
+			<license>Unknown</license>
+		</labels>
+	</tool>
+</tools>

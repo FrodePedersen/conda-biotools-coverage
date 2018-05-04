@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>requests-toolbelt</name>
+			<description>A toolbelt of useful classes and functions to be used with python-requests</description>
+			<homepage>https://github.com/sigmavirus24/requests-toolbelt</homepage>
+			<version>0.5.0</version>
+		</summary>
+		<labels>
+			<license>Apache License 2.0</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mintmap</name>
+			<description>Generate tRF profiles from short RNA-Seq datasets</description>
+			<homepage>https://github.com/TJU-CMC-Org/MINTmap</homepage>
+			<version>'1.0'</version>
+		</summary>
+		<labels>
+			<license>open source GNU GPL v3.0 license</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>rscape</name>
+			<description>R-scape (RNA Structural Covariation Above Phylogenetic Expectation) looksfor evidence of a conserved RNA secondary structure by measuring pairwisecovariations observed in an input multiple sequence alignment.</description>
+			<homepage>http://eddylab.org/R-scape/</homepage>
+			<version>0.6.1</version>
+		</summary>
+		<labels>
+			<license>GPLv3</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>poa</name>
+			<description>POA is Partial Order Alignment, a fast program for multiple sequencealignment in bioinformatics. Its advantages are speed, scalability, sensitivity,and the superior ability to handle branching / indels in the alignment.</description>
+			<homepage>https://sourceforge.net/projects/poamsa</homepage>
+			<version>'2.0'</version>
+		</summary>
+		<labels>
+			<license>GPLv2</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>plant_tribes_gene_family_phylogeny_builder</name>
+			<description>Gene family phylogeny builder pipeline</description>
+			<homepage>https://github.com/dePamphilis/PlantTribes</homepage>
+			<version>1.0.3</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License v3 (GPLv3)</license>
+		</labels>
+	</tool>
+</tools>

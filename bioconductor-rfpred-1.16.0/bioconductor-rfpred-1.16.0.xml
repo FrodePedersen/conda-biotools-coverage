@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-rfpred</name>
+			<description>Based on external numerous data files where rfPred scores are pre-calculatedon all genomic positions of the human exome, the package gives rfPred scoresto missense variants identified by the chromosome, the position (hg19 version),the referent and alternative nucleotids and the uniprot identifier of theprotein. Note that for using the package, the user has to be connected onthe Internet or to download the TabixFile and index (approximately 3.3 Go).</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/rfPred.html</homepage>
+			<version>1.16.0</version>
+		</summary>
+		<labels>
+			<license>GPL (>=2 )</license>
+		</labels>
+	</tool>
+</tools>

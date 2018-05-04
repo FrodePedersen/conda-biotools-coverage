@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>maaslin</name>
+			<description>MaAsLin is a multivariate statistical framework that finds associationsbetween clinical metadata and microbial community abundance or function.</description>
+			<homepage>https://huttenhower.sph.harvard.edu/maaslin</homepage>
+			<version>'0.04'</version>
+		</summary>
+		<labels>
+			<license>Custom</license>
+		</labels>
+	</tool>
+</tools>

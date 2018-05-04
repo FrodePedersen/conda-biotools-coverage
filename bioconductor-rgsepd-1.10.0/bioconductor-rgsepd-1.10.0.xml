@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-rgsepd</name>
+			<description>R/GSEPD is a bioinformatics package for R to help disambiguate transcriptomesamples (a matrix of RNA-Seq counts at RefSeq IDs) by automating differentialexpression (with DESeq2), then gene set enrichment (with GOSeq), and finallya N-dimensional projection to quantify in which ways each sample is like eithertreatment group.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/rgsepd.html</homepage>
+			<version>1.10.0</version>
+		</summary>
+		<labels>
+			<license>GPL-3</license>
+		</labels>
+	</tool>
+</tools>

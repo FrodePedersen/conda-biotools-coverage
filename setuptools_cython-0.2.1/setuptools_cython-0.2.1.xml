@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>setuptools_cython</name>
+			<description>Cython setuptools integration</description>
+			<homepage>http://pypi.python.org/pypi/setuptools_cython/</homepage>
+			<version>0.2.1</version>
+		</summary>
+		<labels>
+			<license>http://www.gnu.org/licenses/gpl-2.0.html</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-data.table</name>
+			<description>Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins,fast add/modify/delete of columns by group using no copies at all, list columns,a fast friendly file reader and parallel file writer. Offers a natural andflexible syntax, for faster development.</description>
+			<homepage>http://r-datatable.com</homepage>
+			<version>1.10.4</version>
+		</summary>
+		<labels>
+			<license>GPL-3 | file LICENSE</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>rdptools</name>
+			<description>Metaproject for RDP Tools</description>
+			<homepage>http://rdp.cme.msu.edu/misc/resources.jsp</homepage>
+			<version>2.0.2</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

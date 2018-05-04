@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>idr</name>
+			<description>"The IDR (Irreproducible Discovery Rate) framework is a uni\uFB01ed approach\\ to measure the reproducibility of \uFB01ndings identi\uFB01ed from replicate\\ experiments and provide highly stable thresholds based on reproducibility."</description>
+			<homepage>https://github.com/nboley/idr</homepage>
+			<version>2.0.3</version>
+		</summary>
+		<labels>
+			<license>GPLv2</license>
+		</labels>
+	</tool>
+</tools>

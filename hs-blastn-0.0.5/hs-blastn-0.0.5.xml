@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>hs-blastn</name>
+			<description>hs-blastn, a fast and accurate nucleotide-nucleotide sequences aligner.</description>
+			<homepage>https://github.com/chenying2016/queries</homepage>
+			<version>0.0.5</version>
+		</summary>
+		<labels>
+			<license>GPL-3.0</license>
+		</labels>
+	</tool>
+</tools>

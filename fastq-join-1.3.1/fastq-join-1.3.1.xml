@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>fastq-join</name>
+			<description>Similar to audy's stitch program, but in C, more efficient and supportssome automatic benchmarking and tuning. It uses the same "squared distancefor anchored alignment" as other tools.</description>
+			<homepage>https://github.com/brwnj/fastq-join</homepage>
+			<version>1.3.1</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

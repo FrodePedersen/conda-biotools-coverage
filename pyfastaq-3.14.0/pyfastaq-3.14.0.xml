@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>pyfastaq</name>
+			<description>Script to manipulate FASTA and FASTQ files, plus API for developers</description>
+			<homepage>https://github.com/sanger-pathogens/Fastaq</homepage>
+			<version>3.14.0</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License v3 (GPLv3)</license>
+		</labels>
+	</tool>
+</tools>

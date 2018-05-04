@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-alakazam</name>
+			<description>Provides immunoglobulin (Ig) sequence lineage reconstruction, diversityprofiling, and amino acid property analysis.</description>
+			<homepage>http://alakazam.readthedocs.org</homepage>
+			<version>0.2.8</version>
+		</summary>
+		<labels>
+			<license>CC BY-SA 4.0</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>fido</name>
+			<description>A method for protein identification in MS/MS proteomics. Think of itlike a protein delivery dog. You bring it the scored matches between peptidesand spectra, and it fetches a list of proteins ranked by posterior probabilityby doing clever tricks.</description>
+			<homepage>https://noble.gs.washington.edu/proj/fido/</homepage>
+			<version>'1.0'</version>
+		</summary>
+		<labels>
+			<license>MIT license</license>
+		</labels>
+	</tool>
+</tools>

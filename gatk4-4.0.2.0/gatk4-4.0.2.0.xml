@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>gatk4</name>
+			<description>Genome Analysis Toolkit (GATK4)</description>
+			<homepage>https://www.broadinstitute.org/gatk/</homepage>
+			<version>4.0.2.0</version>
+		</summary>
+		<labels>
+			<license>BSD</license>
+		</labels>
+	</tool>
+</tools>

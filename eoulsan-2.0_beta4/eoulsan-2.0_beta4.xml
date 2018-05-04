@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>eoulsan</name>
+			<description>A pipeline and a framework for NGS analysis (RNA-Seq and Chip-Seq)</description>
+			<homepage>http://www.tools.genomique.biologie.ens.fr/eoulsan/</homepage>
+			<version>2.0_beta4</version>
+		</summary>
+		<labels>
+			<license>LGPL</license>
+		</labels>
+	</tool>
+</tools>

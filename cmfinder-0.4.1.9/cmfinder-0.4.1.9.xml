@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>cmfinder</name>
+			<description>CMfinder - A Covariance Model Based RNA Motif Finding Algorithm</description>
+			<homepage>https://sourceforge.net/projects/weinberg-cmfinder/</homepage>
+			<version>0.4.1.9</version>
+		</summary>
+		<labels>
+			<license>GPL3</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>xsd</name>
+			<description>CodeSynthesis XSD is an open-source, cross-platform W3C XML Schema toC++ data binding compiler. Provided with an XML instance specification (XMLSchema), it generates C++ classes that represent the given vocabulary as wellas XML parsing and serialization code.</description>
+			<homepage>http://www.codesynthesis.com/products/xsd/</homepage>
+			<version>4.0.0_dep</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

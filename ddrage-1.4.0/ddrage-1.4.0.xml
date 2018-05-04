@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>ddrage</name>
+			<description>Simulator for ddRADseq (double digest restriction site associdated DNAsquencing) datasets. Generates reads (FASTQ format) that can be analyzed andvalidated using a ground truth file (YAML).</description>
+			<homepage>https://bitbucket.org/genomeinformatics/rage</homepage>
+			<version>1.4.0</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

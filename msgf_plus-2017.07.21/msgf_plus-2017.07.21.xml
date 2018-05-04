@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>msgf_plus</name>
+			<description>MS-GF+ is a new MS/MS database search tool that is sensitive (it identifiesmore peptides than other database search tools and as many peptides as spectrallibrary search tools) and universal (works well for diverse types of spectra,different configurations of MS instruments and different experimental protocols).</description>
+			<homepage>https://omics.pnl.gov/software/ms-gf</homepage>
+			<version>2017.07.21</version>
+		</summary>
+		<labels>
+			<license>https://github.com/sangtaekim/msgfplus/blob/master/LICENSE.txt</license>
+		</labels>
+	</tool>
+</tools>

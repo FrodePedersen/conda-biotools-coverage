@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>metacluster</name>
+			<description>MetaCluster5.1 is a new software for binning short pair-end reads</description>
+			<homepage>http://i.cs.hku.hk/~alse/MetaCluster/</homepage>
+			<version>'5.1'</version>
+		</summary>
+		<labels>
+			<license>GPLv2</license>
+		</labels>
+	</tool>
+</tools>

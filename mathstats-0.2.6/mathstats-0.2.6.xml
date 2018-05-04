@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mathstats</name>
+			<description>Statistical functions, goodness-of-fit tests and special and specialdistributions not implemented in scipy/numpy .</description>
+			<homepage>https://github.com/ksahlin/mathstats</homepage>
+			<version>0.2.6</version>
+		</summary>
+		<labels>
+			<license>GPLv3</license>
+		</labels>
+	</tool>
+</tools>

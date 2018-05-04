@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>snns</name>
+			<description>Stuttgart Neural Network Simulator (SNNS)</description>
+			<homepage>http://www.ra.cs.uni-tuebingen.de/SNNS/</homepage>
+			<version>'4.3'</version>
+		</summary>
+		<labels>
+			<license>LGPL v2.1</license>
+		</labels>
+	</tool>
+</tools>

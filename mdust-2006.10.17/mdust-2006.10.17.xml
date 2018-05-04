@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mdust</name>
+			<description>mdust from DFCI Gene Indices Software Tools</description>
+			<homepage>http://compbio.dfci.harvard.edu/tgi/</homepage>
+			<version>2006.10.17</version>
+		</summary>
+		<labels>
+			<license>The Artistic License</license>
+		</labels>
+	</tool>
+</tools>

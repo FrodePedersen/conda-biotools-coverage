@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>pauda</name>
+			<description>PAUDA is a new approach toward the problem of comparing DNA reads againsta database of protein reference sequences that is applicable to very largedatasets consisting of hundreds of millions or billions of reads.</description>
+			<homepage>https://ab.inf.uni-tuebingen.de/software/pauda</homepage>
+			<version>1.0.1</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

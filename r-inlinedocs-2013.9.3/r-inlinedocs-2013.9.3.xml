@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-inlinedocs</name>
+			<description>Generates Rd files from R source code with comments. The main featuresof the default syntax are that (1) docs are defined in comments near the relevantcode, (2) function argument names are not repeated in comments, and (3) examplesare defined in R code, not comments. It is also easy to define a new syntax.</description>
+			<homepage>http://inlinedocs.r-forge.r-project.org</homepage>
+			<version>2013.9.3</version>
+		</summary>
+		<labels>
+			<license>GPL-2 | GPL-3</license>
+		</labels>
+	</tool>
+</tools>

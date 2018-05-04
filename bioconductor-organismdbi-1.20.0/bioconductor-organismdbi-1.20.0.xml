@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-organismdbi</name>
+			<description>The package enables a simple unified interface to several annotationpackages each of which has its own schema by taking advantage of the factthat each of these packages implements a select methods.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/OrganismDbi.html</homepage>
+			<version>1.20.0</version>
+		</summary>
+		<labels>
+			<license>Artistic-2.0</license>
+		</labels>
+	</tool>
+</tools>

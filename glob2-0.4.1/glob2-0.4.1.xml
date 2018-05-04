@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>glob2</name>
+			<description>Version of the glob module that can capture patterns and supports recursivewildcards</description>
+			<homepage>http://github.com/miracle2k/python-glob2/</homepage>
+			<version>0.4.1</version>
+		</summary>
+		<labels>
+			<license>BSD License</license>
+		</labels>
+	</tool>
+</tools>

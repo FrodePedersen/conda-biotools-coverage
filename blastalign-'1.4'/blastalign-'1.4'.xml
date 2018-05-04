@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>blastalign</name>
+			<description>BlastAlign uses NCBI Blast to align nucleotide sequences that have largeindels or are otherwise difficult to align globally.</description>
+			<homepage>http://evolve.zoo.ox.ac.uk/Evolve/Blastalign.html</homepage>
+			<version>'1.4'</version>
+		</summary>
+		<labels>
+			<license>GNU GENERAL PUBLIC LICENSE</license>
+		</labels>
+	</tool>
+</tools>

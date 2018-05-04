@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>rnashapes</name>
+			<description>RNAshape abstraction maps structures to a tree-like domain of shapes,retaining adjacency and nesting of structural features, but disregarding helixlengths. Shape abstraction integrates well with dynamic programming algorithms,and hence it can be applied during structure prediction rather than afterwards.This avoids exponential explosion and can still give us a non-heuristic andcomplete account of properties of the molecule's folding space.</description>
+			<homepage>http://bibiserv.techfak.uni-bielefeld.de/rnashapes</homepage>
+			<version>2.1.6</version>
+		</summary>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-genelendatabase</name>
+			<description>Length of mRNA transcripts for a number of genomes and gene ID formats,largely based on UCSC table browser</description>
+			<homepage>http://bioconductor.org/packages/3.6/data/experiment/html/geneLenDataBase.html</homepage>
+			<version>1.14.0</version>
+		</summary>
+		<labels>
+			<license>LGPL (>= 2)</license>
+		</labels>
+	</tool>
+</tools>

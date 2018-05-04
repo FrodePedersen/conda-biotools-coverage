@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>sift4g</name>
+			<description>SIFT 4G is a faster version of SIFT that enables us to scale up and provideSIFT predictions for more organisms.</description>
+			<homepage>http://sift.bii.a-star.edu.sg/sift4g/</homepage>
+			<version>2.0.0</version>
+		</summary>
+		<labels>
+			<license>GPL-3.0</license>
+		</labels>
+	</tool>
+</tools>

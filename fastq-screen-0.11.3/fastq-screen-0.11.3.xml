@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>fastq-screen</name>
+			<description>FastQ Screen allows you to screen a library of sequences in FastQ formatagainst a set of sequence databases so you can see if the composition of thelibrary matches with what you expect</description>
+			<homepage>http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/</homepage>
+			<version>0.11.3</version>
+		</summary>
+		<labels>
+			<license>GPLv3</license>
+		</labels>
+	</tool>
+</tools>

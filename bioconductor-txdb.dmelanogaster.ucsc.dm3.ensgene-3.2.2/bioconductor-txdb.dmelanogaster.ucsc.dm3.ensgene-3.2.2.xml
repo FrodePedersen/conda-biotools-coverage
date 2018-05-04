@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene</name>
+			<description>Exposes an annotation databases generated from UCSC by exposing theseas TxDb objects</description>
+			<homepage>http://bioconductor.org/packages/3.6/data/annotation/html/TxDb.Dmelanogaster.UCSC.dm3.ensGene.html</homepage>
+			<version>3.2.2</version>
+		</summary>
+		<labels>
+			<license>Artistic-2.0</license>
+		</labels>
+	</tool>
+</tools>

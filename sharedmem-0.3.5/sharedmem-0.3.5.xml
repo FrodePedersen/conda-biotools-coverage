@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>sharedmem</name>
+			<description>'Dispatch your trivially parallizable jobs with sharedmem. '</description>
+			<homepage>http://github.com/rainwoodman/sharedmem</homepage>
+			<version>0.3.5</version>
+		</summary>
+	</tool>
+</tools>

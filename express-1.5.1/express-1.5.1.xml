@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>express</name>
+			<description>eXpress is a streaming DNA/RNA sequence quantification tool.</description>
+			<homepage>http://bio.math.berkeley.edu/eXpress/</homepage>
+			<version>1.5.1</version>
+		</summary>
+		<labels>
+			<license>Artistic License 2.0</license>
+		</labels>
+	</tool>
+</tools>

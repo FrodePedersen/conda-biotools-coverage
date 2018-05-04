@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-aroma.affymetrix</name>
+			<description>A cross-platform R framework that facilitates processing of any numberof Affymetrix microarray samples regardless of computer system.  The onlyparameter that limits the number of chips that can be processed is the amountof available disk space.  The Aroma Framework has successfully been used instudies to process tens of thousands of arrays.  This package has activelybeen used since 2006.</description>
+			<homepage>http://www.aroma-project.org/, https://github.com/HenrikBengtsson/aroma.affymetrix</homepage>
+			<version>3.1.0</version>
+		</summary>
+		<labels>
+			<license>LGPL (>= 2.1)</license>
+		</labels>
+	</tool>
+</tools>

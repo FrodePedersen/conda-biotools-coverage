@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-traser</name>
+			<description>traseR performs GWAS trait-associated SNP enrichment analyses in genomicintervals using different hypothesis testing approaches, also provides variousfunctionalities to explore and visualize the results.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/traseR.html</homepage>
+			<version>1.8.0</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

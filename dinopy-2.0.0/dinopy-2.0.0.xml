@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>dinopy</name>
+			<description>DNA input and output library for Python and Cython. Includes reader andwriter for FASTA and FASTQ files, support for samtools faidx files, and generatorsfor solid and gapped q-grams (k-mers).</description>
+			<homepage>https://bitbucket.org/HenningTimm/dinopy</homepage>
+			<version>2.0.0</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

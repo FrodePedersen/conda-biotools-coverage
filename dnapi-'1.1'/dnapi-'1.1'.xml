@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>dnapi</name>
+			<description>De novo adapter prediction (iterative) algorithm for small RNA sequencingdata.</description>
+			<homepage>https://github.com/jnktsj/DNApi</homepage>
+			<version>'1.1'</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-histonehmm</name>
+			<description>histoneHMM is a software to analyse ChIP-seq data of histone modificationswith broad genomic footprints like H3K27me3. It allows for calling modifiedregions in single samples as well as for calling differentially modified regionsin a comparison of two samples</description>
+			<homepage>http://histonehmm.molgen.mpg.de/</homepage>
+			<version>'1.7'</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

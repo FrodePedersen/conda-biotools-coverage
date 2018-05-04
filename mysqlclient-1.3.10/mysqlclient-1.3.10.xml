@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>mysqlclient</name>
+			<description>Python interface to MySQL</description>
+			<homepage>https://github.com/PyMySQL/mysqlclient-python</homepage>
+			<version>1.3.10</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License (GPL)</license>
+		</labels>
+	</tool>
+</tools>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>graph_embed</name>
+			<description>Compute a 2D embedding of a data matrix given supervised class information.</description>
+			<homepage>https://github.com/fabriziocosta/GraphEmbed</homepage>
+			<version>'1.0'</version>
+		</summary>
+		<labels>
+			<license>MIT</license>
+		</labels>
+	</tool>
+</tools>

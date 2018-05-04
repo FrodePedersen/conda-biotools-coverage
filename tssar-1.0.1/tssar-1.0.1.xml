@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>tssar</name>
+			<description>TSSAR is a Web Service for predicting bacterial Transcription Start Sitesfrom dRNA-seq data.</description>
+			<homepage>http://rna.tbi.univie.ac.at/TSSAR</homepage>
+			<version>1.0.1</version>
+		</summary>
+		<labels>
+			<license>GNU General Public License v2.0</license>
+		</labels>
+	</tool>
+</tools>

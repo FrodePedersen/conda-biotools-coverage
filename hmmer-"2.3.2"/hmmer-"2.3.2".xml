@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>hmmer</name>
+			<description>Biosequence analysis using profile hidden Markov models</description>
+			<homepage>http://hmmer.org/</homepage>
+			<version>"2.3.2"</version>
+		</summary>
+		<labels>
+			<license>GPLv2</license>
+		</labels>
+	</tool>
+</tools>

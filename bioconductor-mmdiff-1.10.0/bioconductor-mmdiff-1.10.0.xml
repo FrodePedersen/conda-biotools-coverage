@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-mmdiff</name>
+			<description>This package detects statistically significant difference between readenrichment profiles in different ChIP-Seq samples. To take advantage of shapedifferences it uses Kernel methods (Maximum Mean Discrepancy, MMD).</description>
+			<homepage>http://bioconductor.org/packages/release/bioc/html/MMDiff.html</homepage>
+			<version>1.10.0</version>
+		</summary>
+		<labels>
+			<license>Artistic-2.0</license>
+		</labels>
+	</tool>
+</tools>

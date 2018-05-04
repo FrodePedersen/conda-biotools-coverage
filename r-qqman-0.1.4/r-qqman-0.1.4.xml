@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-qqman</name>
+			<description>Create Q-Q and manhattan plots for GWAS data from PLINK results.</description>
+			<homepage>https://CRAN.R-project.org/package=qqman</homepage>
+			<version>0.1.4</version>
+		</summary>
+		<labels>
+			<license>GPL-3</license>
+		</labels>
+	</tool>
+</tools>

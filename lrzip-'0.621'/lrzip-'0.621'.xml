@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>lrzip</name>
+			<description>Long Range ZIP or Lzma RZIP. This is a compression program optimisedfor large files. The larger the file and the more memory you have, the betterthe compression advantage this will provide, especially once the files arelarger than 100MB. The advantage can be chosen to be either size (much smallerthan bzip2) or speed (much faster than bzip2).</description>
+			<homepage>https://github.com/ckolivas/lrzip</homepage>
+			<version>'0.621'</version>
+		</summary>
+		<labels>
+			<license>GPLv2</license>
+		</labels>
+	</tool>
+</tools>

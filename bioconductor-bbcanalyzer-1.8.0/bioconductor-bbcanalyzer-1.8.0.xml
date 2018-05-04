@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-bbcanalyzer</name>
+			<description>BBCAnalyzer is a package for visualizing the relative or absolute numberof bases, deletions and insertions at defined positions in sequence alignmentdata available as bam files in comparison to the reference bases. Markersfor the relative base frequencies, the mean quality of the detected bases,known mutations or polymorphisms and variants called in the data may additionallybe included in the plots.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/BBCAnalyzer.html</homepage>
+			<version>1.8.0</version>
+		</summary>
+		<labels>
+			<license>LGPL-3</license>
+		</labels>
+	</tool>
+</tools>

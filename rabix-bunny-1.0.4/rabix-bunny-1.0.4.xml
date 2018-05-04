@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>rabix-bunny</name>
+			<description>Open-source development kit for the Common Workflow Language from SevenBridges. The Rabix executor Bunny, which can be used to execute apps locallyfrom the command line.</description>
+			<homepage>https://github.com/rabix/bunny</homepage>
+			<version>1.0.4</version>
+		</summary>
+		<labels>
+			<license>Apache v2</license>
+		</labels>
+	</tool>
+</tools>

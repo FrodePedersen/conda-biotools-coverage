@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>cmph</name>
+			<description>CMPH - C Minimal Perfect Hashing Library</description>
+			<homepage>http://cmph.sourceforge.net/</homepage>
+			<version>'2.0'</version>
+		</summary>
+	</tool>
+</tools>

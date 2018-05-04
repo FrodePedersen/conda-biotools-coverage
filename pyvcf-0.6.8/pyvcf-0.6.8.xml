@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>pyvcf</name>
+			<description>A Variant Call Format reader for Python</description>
+			<homepage>https://github.com/jamescasbon/PyVCF</homepage>
+			<version>0.6.8</version>
+		</summary>
+		<labels>
+			<license>BSD</license>
+		</labels>
+	</tool>
+</tools>

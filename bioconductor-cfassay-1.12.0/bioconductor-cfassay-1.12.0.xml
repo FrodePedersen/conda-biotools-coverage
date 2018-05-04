@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>bioconductor-cfassay</name>
+			<description>The package provides functions for calculation of linear-quadratic cellsurvival curves and for ANOVA of experimental 2-way designs along with thecolony formation assay.</description>
+			<homepage>http://bioconductor.org/packages/3.6/bioc/html/CFAssay.html</homepage>
+			<version>1.12.0</version>
+		</summary>
+		<labels>
+			<license>LGPL</license>
+		</labels>
+	</tool>
+</tools>

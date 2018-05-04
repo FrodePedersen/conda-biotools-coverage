@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>p7zip</name>
+			<description>p7zip is a quick port of 7z.exe and 7za.exe (command line version of7zip, see www.7-zip.org ) for Unix.</description>
+			<homepage>http://sourceforge.net/projects/p7zip/</homepage>
+			<version>'15.09'</version>
+		</summary>
+		<labels>
+			<license>LGPLv2</license>
+		</labels>
+	</tool>
+</tools>

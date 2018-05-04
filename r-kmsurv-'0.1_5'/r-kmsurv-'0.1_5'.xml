@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-kmsurv</name>
+			<description>Data sets and functions for Klein and Moeschberger (1997), "SurvivalAnalysis, Techniques for Censored and Truncated Data", Springer.</description>
+			<homepage>https://CRAN.R-project.org/package=KMsurv</homepage>
+			<version>'0.1_5'</version>
+		</summary>
+		<labels>
+			<license>GPL (>= 3)</license>
+		</labels>
+	</tool>
+</tools>

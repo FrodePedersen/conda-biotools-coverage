@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>scikits-datasmooth</name>
+			<description>Scikits data smoothing package</description>
+			<homepage>https://github.com/jjstickel/scikit-datasmooth/</homepage>
+			<version>0.7.0</version>
+		</summary>
+		<labels>
+			<license>BSD</license>
+		</labels>
+	</tool>
+</tools>

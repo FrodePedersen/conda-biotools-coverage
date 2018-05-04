@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>sak</name>
+			<description>This tool allows one to cut sequences and parts of sequences out of sequencefiles.</description>
+			<homepage>https://github.com/seqan/seqan/tree/master/apps/sak/README</homepage>
+			<version>0.4.6</version>
+		</summary>
+		<labels>
+			<license>https://github.com/seqan/seqan/tree/master/apps/sak/LICENSE</license>
+		</labels>
+	</tool>
+</tools>

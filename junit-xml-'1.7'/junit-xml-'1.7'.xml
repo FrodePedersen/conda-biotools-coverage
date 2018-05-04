@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>junit-xml</name>
+			<description>Creates JUnit XML test result documents that can be read by tools suchas Jenkins</description>
+			<homepage>https://github.com/kyrus/python-junit-xml</homepage>
+			<version>'1.7'</version>
+		</summary>
+		<labels>
+			<license>MIT License</license>
+		</labels>
+	</tool>
+</tools>

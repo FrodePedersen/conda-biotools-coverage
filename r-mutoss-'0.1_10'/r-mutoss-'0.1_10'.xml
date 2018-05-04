@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>r-mutoss</name>
+			<description>The Mutoss package and accompanying mutossGUI package are designed toease the application and comparison of multiple hypothesis testing procedures.</description>
+			<homepage>http://mutoss.r-forge.r-project.org/</homepage>
+			<version>'0.1_10'</version>
+		</summary>
+		<labels>
+			<license>GPL</license>
+		</labels>
+	</tool>
+</tools>

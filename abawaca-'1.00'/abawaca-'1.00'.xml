@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools xmlns="http://bio.tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.tools biotools_3.0.0-rc-rev1.xsd">
+	<tool>
+		<summary>
+			<name>abawaca</name>
+			<description>abawaca is a binning program for metagenomics</description>
+			<homepage>https://github.com/CK7/abawaca</homepage>
+			<version>'1.00'</version>
+		</summary>
+		<labels>
+			<license>open source</license>
+		</labels>
+	</tool>
+</tools>
